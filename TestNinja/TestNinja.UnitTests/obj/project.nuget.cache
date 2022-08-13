@@ -1,13 +1,17 @@
 {
   "version": 2,
-  "dgSpecHash": "7yHckO3M899WhmV1CnpMJLrE2Ooixu5ogEiuSnZng7jfcEFpYQyzB5uZ0em+PzzxwXLlNa8KDEXd57dAvVaXlg==",
+  "dgSpecHash": "NLKA8l2lj/CpURt4zfdjOW3dgmF3F0fLcpzJnw7PUTIVA5MH3CW90b0Ga1UKzRiI6IiSP1wZmPLPBSLxyvSTGQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ROCM9\\Downloads\\source-code-starter+(1)\\source-code-starter\\TestNinja\\TestNinja.UnitTests\\TestNinja.UnitTests.csproj",
+  "projectFilePath": "C:\\Users\\ROCM9\\Documents\\GITHUB\\cursos\\C#\\unit-testing-cSharp\\TestNinja\\TestNinja.UnitTests\\TestNinja.UnitTests.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\ROCM9\\.nuget\\packages\\castle.core\\5.1.0\\castle.core.5.1.0.nupkg.sha512",
     "C:\\Users\\ROCM9\\.nuget\\packages\\microsoft.codecoverage\\16.5.0\\microsoft.codecoverage.16.5.0.nupkg.sha512",
     "C:\\Users\\ROCM9\\.nuget\\packages\\microsoft.net.test.sdk\\16.5.0\\microsoft.net.test.sdk.16.5.0.nupkg.sha512",
+    "C:\\Users\\ROCM9\\.nuget\\packages\\moq\\4.18.2\\moq.4.18.2.nupkg.sha512",
     "C:\\Users\\ROCM9\\.nuget\\packages\\nunit\\3.13.3\\nunit.3.13.3.nupkg.sha512",
-    "C:\\Users\\ROCM9\\.nuget\\packages\\nunit3testadapter\\4.2.1\\nunit3testadapter.4.2.1.nupkg.sha512"
+    "C:\\Users\\ROCM9\\.nuget\\packages\\nunit3testadapter\\4.2.1\\nunit3testadapter.4.2.1.nupkg.sha512",
+    "C:\\Users\\ROCM9\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.3\\system.runtime.compilerservices.unsafe.4.5.3.nupkg.sha512",
+    "C:\\Users\\ROCM9\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512"
   ],
   "logs": []
 }

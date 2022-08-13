@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ROCM9\\Downloads\\source-code-starter+(1)\\source-code-starter\\TestNinja\\TestNinja.UnitTests\\TestNinja.UnitTests.csproj": {}
+    "C:\\Users\\ROCM9\\Documents\\GITHUB\\cursos\\C#\\unit-testing-cSharp\\TestNinja\\TestNinja.UnitTests\\TestNinja.UnitTests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ROCM9\\Downloads\\source-code-starter+(1)\\source-code-starter\\TestNinja\\TestNinja.UnitTests\\TestNinja.UnitTests.csproj": {
+    "C:\\Users\\ROCM9\\Documents\\GITHUB\\cursos\\C#\\unit-testing-cSharp\\TestNinja\\TestNinja.UnitTests\\TestNinja.UnitTests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ROCM9\\Downloads\\source-code-starter+(1)\\source-code-starter\\TestNinja\\TestNinja.UnitTests\\TestNinja.UnitTests.csproj",
+        "projectUniqueName": "C:\\Users\\ROCM9\\Documents\\GITHUB\\cursos\\C#\\unit-testing-cSharp\\TestNinja\\TestNinja.UnitTests\\TestNinja.UnitTests.csproj",
         "projectName": "TestNinja.UnitTests",
-        "projectPath": "C:\\Users\\ROCM9\\Downloads\\source-code-starter+(1)\\source-code-starter\\TestNinja\\TestNinja.UnitTests\\TestNinja.UnitTests.csproj",
+        "projectPath": "C:\\Users\\ROCM9\\Documents\\GITHUB\\cursos\\C#\\unit-testing-cSharp\\TestNinja\\TestNinja.UnitTests\\TestNinja.UnitTests.csproj",
         "packagesPath": "C:\\Users\\ROCM9\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ROCM9\\Downloads\\source-code-starter+(1)\\source-code-starter\\TestNinja\\TestNinja.UnitTests\\obj\\",
+        "outputPath": "C:\\Users\\ROCM9\\Documents\\GITHUB\\cursos\\C#\\unit-testing-cSharp\\TestNinja\\TestNinja.UnitTests\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -31,8 +31,8 @@
           "net48": {
             "targetAlias": "net48",
             "projectReferences": {
-              "C:\\Users\\ROCM9\\Downloads\\source-code-starter+(1)\\source-code-starter\\TestNinja\\TestNinja\\TestNinja.csproj": {
-                "projectPath": "C:\\Users\\ROCM9\\Downloads\\source-code-starter+(1)\\source-code-starter\\TestNinja\\TestNinja\\TestNinja.csproj"
+              "C:\\Users\\ROCM9\\Documents\\GITHUB\\cursos\\C#\\unit-testing-cSharp\\TestNinja\\TestNinja\\TestNinja.csproj": {
+                "projectPath": "C:\\Users\\ROCM9\\Documents\\GITHUB\\cursos\\C#\\unit-testing-cSharp\\TestNinja\\TestNinja\\TestNinja.csproj"
               }
             }
           }
@@ -51,6 +51,10 @@
               "target": "Package",
               "version": "[16.5.0, )"
             },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.18.2, )"
+            },
             "NUnit": {
               "target": "Package",
               "version": "[3.13.3, )"
@@ -64,11 +68,11 @@
         }
       }
     },
-    "C:\\Users\\ROCM9\\Downloads\\source-code-starter+(1)\\source-code-starter\\TestNinja\\TestNinja\\TestNinja.csproj": {
+    "C:\\Users\\ROCM9\\Documents\\GITHUB\\cursos\\C#\\unit-testing-cSharp\\TestNinja\\TestNinja\\TestNinja.csproj": {
       "restore": {
-        "projectUniqueName": "C:\\Users\\ROCM9\\Downloads\\source-code-starter+(1)\\source-code-starter\\TestNinja\\TestNinja\\TestNinja.csproj",
+        "projectUniqueName": "C:\\Users\\ROCM9\\Documents\\GITHUB\\cursos\\C#\\unit-testing-cSharp\\TestNinja\\TestNinja\\TestNinja.csproj",
         "projectName": "TestNinja",
-        "projectPath": "C:\\Users\\ROCM9\\Downloads\\source-code-starter+(1)\\source-code-starter\\TestNinja\\TestNinja\\TestNinja.csproj",
+        "projectPath": "C:\\Users\\ROCM9\\Documents\\GITHUB\\cursos\\C#\\unit-testing-cSharp\\TestNinja\\TestNinja\\TestNinja.csproj",
         "frameworks": {
           "net48": {
             "projectReferences": {}
