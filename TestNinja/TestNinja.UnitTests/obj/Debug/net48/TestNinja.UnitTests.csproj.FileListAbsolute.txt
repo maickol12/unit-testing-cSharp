@@ -54,3 +54,10 @@ C:\Users\ROCM9\Documents\GITHUB\cursos\C#\unit-testing-cSharp\TestNinja\TestNinj
 C:\Users\ROCM9\Documents\GITHUB\cursos\C#\unit-testing-cSharp\TestNinja\TestNinja.UnitTests\bin\Debug\net48\Moq.dll
 C:\Users\ROCM9\Documents\GITHUB\cursos\C#\unit-testing-cSharp\TestNinja\TestNinja.UnitTests\bin\Debug\net48\System.Runtime.CompilerServices.Unsafe.dll
 C:\Users\ROCM9\Documents\GITHUB\cursos\C#\unit-testing-cSharp\TestNinja\TestNinja.UnitTests\bin\Debug\net48\System.Threading.Tasks.Extensions.dll
+C:\Users\ROCM9\Documents\GITHUB\cursos\C#\unit-testing-cSharp\TestNinja\TestNinja.UnitTests\bin\Debug\net48\TestNinja.UnitTests.dll.config
+C:\Users\ROCM9\Documents\GITHUB\cursos\C#\unit-testing-cSharp\TestNinja\TestNinja.UnitTests\bin\Debug\net48\AutoMoq.dll
+C:\Users\ROCM9\Documents\GITHUB\cursos\C#\unit-testing-cSharp\TestNinja\TestNinja.UnitTests\bin\Debug\net48\Microsoft.Practices.ServiceLocation.dll
+C:\Users\ROCM9\Documents\GITHUB\cursos\C#\unit-testing-cSharp\TestNinja\TestNinja.UnitTests\bin\Debug\net48\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\ROCM9\Documents\GITHUB\cursos\C#\unit-testing-cSharp\TestNinja\TestNinja.UnitTests\bin\Debug\net48\Microsoft.Practices.Unity.RegistrationByConvention.dll
+C:\Users\ROCM9\Documents\GITHUB\cursos\C#\unit-testing-cSharp\TestNinja\TestNinja.UnitTests\bin\Debug\net48\Microsoft.Practices.Unity.dll
+C:\Users\ROCM9\Documents\GITHUB\cursos\C#\unit-testing-cSharp\TestNinja\TestNinja.UnitTests\obj\Debug\net48\TestNinja.UnitTests.dll.config
